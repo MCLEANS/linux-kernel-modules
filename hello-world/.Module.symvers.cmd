@@ -1,0 +1,1 @@
+savedcmd_/home/mcleans/Documents/projects/learning/linux-kernel-drivers/hello-world/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/mcleans/Documents/projects/learning/linux-kernel-drivers/hello-world/Module.symvers -T /home/mcleans/Documents/projects/learning/linux-kernel-drivers/hello-world/modules.order -i Module.symvers -e 
